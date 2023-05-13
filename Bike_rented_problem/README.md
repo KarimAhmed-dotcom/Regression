@@ -2,6 +2,9 @@
 
 This repository contains Python scripts for predicting the number of bikes needed for a bike sharing service based on historical data. The dataset used in this project is the Bike Sharing dataset from kaggle.
 
+## Goal 
+The goal of this project is help the bussiness stackholders to predict number of casual and registered users per hour .
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/KarimAhmed-dotcom/Regression.git`
